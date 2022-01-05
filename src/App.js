@@ -15,7 +15,7 @@ import { Elements } from "@stripe/react-stripe-js";
 
 // put our api key as parameter to our loadstripe function
 const promise = loadStripe(
-  'pk_test_51J2VtuSGfqpNc5ZvVF7FxwsIODTTjAmmaXx7rib61RW3iCoWdH7zgCF0EEgOrwY02XGZ62NydOQOiTPW2tI9Rz9m00iOAgaf4v'
+  ''
 );
 
 function App() {
