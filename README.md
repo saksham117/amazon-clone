@@ -3,7 +3,7 @@ My attempt towards developing a full stack clone of the Amazon App using React.j
 
 Implemented complete payment functionality using Stripe.js and handled authentication using Google Authentication.
 
-[Check out the site over here](https://clone-2dafa.web.app/) (Might be down for some updates)
+[Check out the site over here](https://clone-6f35b.web.app/) 
 
 ### Landing Page
 ![](https://github.com/saksham117/amazon-clone/blob/main/Screenshots/landing_page.png)
